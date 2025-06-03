@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zd1_SagutdinovaIlona", "zd1_SagutdinovaIlona.csproj", "{6FEA4F47-4387-40ED-9D09-B83EE4D4C7C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zd2_sagutdinova", "..\zd2_sagutdinova\zd2_sagutdinova.csproj", "{6894E825-E12D-4842-AF8D-83E8E25B8A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FEA4F47-4387-40ED-9D09-B83EE4D4C7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEA4F47-4387-40ED-9D09-B83EE4D4C7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEA4F47-4387-40ED-9D09-B83EE4D4C7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEA4F47-4387-40ED-9D09-B83EE4D4C7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6894E825-E12D-4842-AF8D-83E8E25B8A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6894E825-E12D-4842-AF8D-83E8E25B8A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6894E825-E12D-4842-AF8D-83E8E25B8A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6894E825-E12D-4842-AF8D-83E8E25B8A49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1A8605A-2825-49A8-81E0-8B2C87494E8F}
+	EndGlobalSection
+EndGlobal

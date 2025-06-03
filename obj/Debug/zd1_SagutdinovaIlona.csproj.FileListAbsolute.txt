@@ -1,0 +1,8 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd1_SagutdinovaIlona\bin\Debug\zd1_SagutdinovaIlona.exe.config
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd1_SagutdinovaIlona\bin\Debug\zd1_SagutdinovaIlona.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd1_SagutdinovaIlona\bin\Debug\zd1_SagutdinovaIlona.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd1_SagutdinovaIlona\obj\Debug\zd1_SagutdinovaIlona.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd1_SagutdinovaIlona\obj\Debug\zd1_SagutdinovaIlona.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd1_SagutdinovaIlona\obj\Debug\zd1_SagutdinovaIlona.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd1_SagutdinovaIlona\obj\Debug\zd1_SagutdinovaIlona.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd1_SagutdinovaIlona\obj\Debug\zd1_SagutdinovaIlona.pdb

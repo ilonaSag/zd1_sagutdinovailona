@@ -1,22 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
+using System.Xml.Linq;
 
-namespace zd2_sagutdinova
+namespace zd1_SagutdinovaIlona
 {
-    internal static class Program
+    internal class Program
     {
-        /// <summary>
-        /// Главная точка входа для приложения.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            try
+            {
+                Cat cat = new Cat();
+                Console.WriteLine("Введите имя кошки");
+                cat.Name = Console.ReadLine();
+                Console.WriteLine("Введите вес кошки");
+                cat.Ves = double.Parse(Console.ReadLine());
+                    cat.Meow();
+            }
+            catch { Console.WriteLine("Неверный ввод"); }
+            Console.ReadKey();
         }
     }
 }
