@@ -1,0 +1,11 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd2_sagutdinova\bin\Debug\zd2_sagutdinova.exe.config
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd2_sagutdinova\bin\Debug\zd2_sagutdinova.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd2_sagutdinova\bin\Debug\zd2_sagutdinova.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd2_sagutdinova\obj\Debug\zd2_sagutdinova.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd2_sagutdinova\obj\Debug\zd2_sagutdinova.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd2_sagutdinova\obj\Debug\zd2_sagutdinova.Form1.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd2_sagutdinova\obj\Debug\zd2_sagutdinova.Properties.Resources.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd2_sagutdinova\obj\Debug\zd2_sagutdinova.csproj.GenerateResource.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd2_sagutdinova\obj\Debug\zd2_sagutdinova.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd2_sagutdinova\obj\Debug\zd2_sagutdinova.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Sagutdinova kotlin\zd2_sagutdinova\obj\Debug\zd2_sagutdinova.pdb
